@@ -2,7 +2,7 @@
 <div align="center">
 <br>
 
-![](https://img.shields.io/badge/Made_with-C++-black?style=for-the-badge&logo=cpp)
+![](https://img.shields.io/badge/Made_with-Python-black?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/Made_with-Java-red?style=for-the-badge&logo=java)
 
 <br>

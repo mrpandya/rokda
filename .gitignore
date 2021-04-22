@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -44,3 +45,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+node_modules
+.nyc_output
+coverage
+.idea
+*.log
+yarn.lock
+.vscode
+data
+>>>>>>> 49c3dc160ad33312fa6f635b1705db69d442359d

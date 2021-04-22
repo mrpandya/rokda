@@ -1,16 +1,16 @@
 require('mocha-steps');
 const supertest = require('supertest');
 const assert = require('assert');
-const HttpServer = require('../lib/httpServer');
-const Blockchain = require('../lib/blockchain');
-const Operator = require('../lib/operator');
-const Miner = require('../lib/miner');
-const Node = require('../lib/node');
+const HttpServer = require('../lib-server/httpServer');
+const Blockchain = require('../lib-server/blockchain');
+const Operator = require('../lib-server/operator');
+const Miner = require('../lib-server/miner');
+const Node = require('../lib-server/node');
 const fs = require('fs-extra');
 
 const logLevel = 0;
 
-require('../lib/util/consoleWrapper.js')('integrationTest', logLevel);
+require('../lib-server/util/consoleWrapper.js')('integrationTest', logLevel);
 
 describe('Integration Test', () => {
     const name1 = 'integrationTest1';

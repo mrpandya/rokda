@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # rokdaapp
 
 A new Flutter application.
@@ -14,3 +15,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+<h1 align="center">ROKDA :moneybag:</h1>
+<div align="center">
+<br>
+
+![](https://img.shields.io/badge/Made_with-Python-black?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Made_with-Java-red?style=for-the-badge&logo=java)
+
+<br>
+<h3>Home Made Rokda</h3>
+</div>
+>>>>>>> e08fdba798268ad069d4b05b05830d161145699e

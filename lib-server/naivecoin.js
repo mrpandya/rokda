@@ -25,4 +25,9 @@ module.exports = function naivecoin(host, port, peers, logLevel, name) {
     httpServer.listen(host, port);
 };
 
-// node bin/naivecoin.js -p 3003 --name hardik --peers http://localhost:3001
+// node bin/naivecoin.js -p 3000 --name manan
+// npm start -- for node 1 at port 3001
+// node bin/naivecoin.js -p 3002 --name ali
+// node bin/naivecoin.js -p 3003 --name hardik
+
+//  --peers http://localhost:3001
